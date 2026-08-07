@@ -1,0 +1,21 @@
+[submodule "default/company"]
+	path = default/company
+	url = git@github.com:quanttide/quanttide-laboratory-of-business-entity.git
+[submodule "examples/execute"]
+	path = examples/execute
+	url = git@github.com:quanttide/quanttide-laboratory-of-execution.git
+[submodule "examples/game"]
+	path = examples/game
+	url = git@github.com:quanttide/quanttide-laboratory-of-game-developing.git
+[submodule "examples/founder"]
+	path = examples/founder
+	url = git@github.com:quanttide/quanttide-laboratory-of-founder.git
+[submodule "examples/human"]
+	path = examples/human
+	url = git@github.com:quanttide/quanttide-laboratory-of-human-resources.git
+[submodule "examples/org"]
+	path = examples/org
+	url = git@github.com:quanttide/quanttide-laboratory-of-organization.git
+[submodule "examples/innov"]
+	path = examples/innov
+	url = git@github.com:quanttide/quanttide-laboratory-of-innovation.git
