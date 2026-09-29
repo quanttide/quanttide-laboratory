@@ -1,6 +1,6 @@
 [submodule "default/company"]
 	path = default/company
-	url = https://github.com/quanttide/quanttide-laboratory-of-business-entity.git
+	url = https://github.com/quanttide/quanttide-tech-lab.git
 [submodule "examples/execute"]
 	path = examples/execute
 	url = https://github.com/quanttide/quanttide-laboratory-of-execution.git
