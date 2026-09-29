@@ -1,18 +1,114 @@
-[submodule "default/company"]
-	path = default/company
+[submodule "defaults/quanttide-tech-lab"]
+	path = defaults/quanttide-tech-lab
 	url = https://github.com/quanttide/quanttide-tech-lab.git
-[submodule "examples/execute"]
-	path = examples/execute
-	url = https://github.com/quanttide/quanttide-execution-lab.git
-[submodule "examples/game"]
-	path = examples/game
-	url = https://github.com/quanttide/quanttide-game-lab.git
-[submodule "examples/human"]
-	path = examples/human
+[submodule "domains/quanttide-agent-lab"]
+	path = domains/quanttide-agent-lab
+	url = https://github.com/quanttide/quanttide-agent-lab.git
+[submodule "domains/quanttide-asset-lab"]
+	path = domains/quanttide-asset-lab
+	url = https://github.com/quanttide/quanttide-asset-lab.git
+[submodule "domains/quanttide-auth-lab"]
+	path = domains/quanttide-auth-lab
+	url = https://github.com/quanttide/quanttide-auth-lab.git
+[submodule "domains/quanttide-code-lab"]
+	path = domains/quanttide-code-lab
+	url = https://github.com/quanttide/quanttide-code-lab.git
+[submodule "domains/quanttide-connect-lab"]
+	path = domains/quanttide-connect-lab
+	url = https://github.com/quanttide/quanttide-connect-lab.git
+[submodule "domains/quanttide-course-lab"]
+	path = domains/quanttide-course-lab
+	url = https://github.com/quanttide/quanttide-course-lab.git
+[submodule "domains/quanttide-crowd-lab"]
+	path = domains/quanttide-crowd-lab
+	url = https://github.com/quanttide/quanttide-crowd-lab.git
+[submodule "domains/quanttide-customer-lab"]
+	path = domains/quanttide-customer-lab
+	url = https://github.com/quanttide/quanttide-customer-lab.git
+[submodule "domains/quanttide-data-lab"]
+	path = domains/quanttide-data-lab
+	url = https://github.com/quanttide/quanttide-data-lab.git
+[submodule "domains/quanttide-design-lab"]
+	path = domains/quanttide-design-lab
+	url = https://github.com/quanttide/quanttide-design-lab.git
+[submodule "domains/quanttide-devops-lab"]
+	path = domains/quanttide-devops-lab
+	url = https://github.com/quanttide/quanttide-devops-lab.git
+[submodule "domains/quanttide-docs-lab"]
+	path = domains/quanttide-docs-lab
+	url = https://github.com/quanttide/quanttide-docs-lab.git
+[submodule "domains/quanttide-econ-lab"]
+	path = domains/quanttide-econ-lab
+	url = https://github.com/quanttide/quanttide-econ-lab.git
+[submodule "domains/quanttide-entrep-lab"]
+	path = domains/quanttide-entrep-lab
+	url = https://github.com/quanttide/quanttide-entrep-lab.git
+[submodule "domains/quanttide-execute-lab"]
+	path = domains/quanttide-execute-lab
+	url = https://github.com/quanttide/quanttide-execute-lab.git
+[submodule "domains/quanttide-finance-lab"]
+	path = domains/quanttide-finance-lab
+	url = https://github.com/quanttide/quanttide-finance-lab.git
+[submodule "domains/quanttide-growth-lab"]
+	path = domains/quanttide-growth-lab
+	url = https://github.com/quanttide/quanttide-growth-lab.git
+[submodule "domains/quanttide-health-lab"]
+	path = domains/quanttide-health-lab
+	url = https://github.com/quanttide/quanttide-health-lab.git
+[submodule "domains/quanttide-human-lab"]
+	path = domains/quanttide-human-lab
 	url = https://github.com/quanttide/quanttide-human-lab.git
-[submodule "examples/org"]
-	path = examples/org
-	url = https://github.com/quanttide/quanttide-org-lab.git
-[submodule "examples/innov"]
-	path = examples/innov
+[submodule "domains/quanttide-innov-lab"]
+	path = domains/quanttide-innov-lab
 	url = https://github.com/quanttide/quanttide-innov-lab.git
+[submodule "domains/quanttide-knowl-lab"]
+	path = domains/quanttide-knowl-lab
+	url = https://github.com/quanttide/quanttide-knowl-lab.git
+[submodule "domains/quanttide-learn-lab"]
+	path = domains/quanttide-learn-lab
+	url = https://github.com/quanttide/quanttide-learn-lab.git
+[submodule "domains/quanttide-media-lab"]
+	path = domains/quanttide-media-lab
+	url = https://github.com/quanttide/quanttide-media-lab.git
+[submodule "domains/quanttide-meta-lab"]
+	path = domains/quanttide-meta-lab
+	url = https://github.com/quanttide/quanttide-meta-lab.git
+[submodule "domains/quanttide-org-lab"]
+	path = domains/quanttide-org-lab
+	url = https://github.com/quanttide/quanttide-org-lab.git
+[submodule "domains/quanttide-pay-lab"]
+	path = domains/quanttide-pay-lab
+	url = https://github.com/quanttide/quanttide-pay-lab.git
+[submodule "domains/quanttide-product-lab"]
+	path = domains/quanttide-product-lab
+	url = https://github.com/quanttide/quanttide-product-lab.git
+[submodule "domains/quanttide-project-lab"]
+	path = domains/quanttide-project-lab
+	url = https://github.com/quanttide/quanttide-project-lab.git
+[submodule "domains/quanttide-secret-lab"]
+	path = domains/quanttide-secret-lab
+	url = https://github.com/quanttide/quanttide-secret-lab.git
+[submodule "domains/quanttide-security-lab"]
+	path = domains/quanttide-security-lab
+	url = https://github.com/quanttide/quanttide-security-lab.git
+[submodule "domains/quanttide-strategy-lab"]
+	path = domains/quanttide-strategy-lab
+	url = https://github.com/quanttide/quanttide-strategy-lab.git
+[submodule "domains/quanttide-support-lab"]
+	path = domains/quanttide-support-lab
+	url = https://github.com/quanttide/quanttide-support-lab.git
+[submodule "domains/quanttide-think-lab"]
+	path = domains/quanttide-think-lab
+	url = https://github.com/quanttide/quanttide-think-lab.git
+[submodule "domains/quanttide-work-lab"]
+	path = domains/quanttide-work-lab
+	url = https://github.com/quanttide/quanttide-work-lab.git
+[submodule "domains/quanttide-write-lab"]
+	path = domains/quanttide-write-lab
+	url = https://github.com/quanttide/quanttide-write-lab.git
+[submodule "independent/quanttide-execution-lab"]
+	path = independent/quanttide-execution-lab
+	url = https://github.com/quanttide/quanttide-execution-lab.git
+[submodule "independent/quanttide-game-lab"]
+	path = independent/quanttide-game-lab
+	url = https://github.com/quanttide/quanttide-game-lab.git
