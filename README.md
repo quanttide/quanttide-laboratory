@@ -48,6 +48,7 @@
 | 领域层 | [`quanttide-pay-lab`](domains/quanttide-pay-lab) | [`quanttide-pay`](../../domains/quanttide-pay) | 支付工程领域的实验与原型 |
 | 领域层 | [`quanttide-product-lab`](domains/quanttide-product-lab) | [`quanttide-product`](../../domains/quanttide-product) | 产品研发领域的实验与原型 |
 | 领域层 | [`quanttide-project-lab`](domains/quanttide-project-lab) | [`quanttide-project`](../../domains/quanttide-project) | 项目管理领域的实验与原型 |
+| 领域层 | [`quanttide-search-lab`](domains/quanttide-search-lab) | [`quanttide-search`](../../domains/quanttide-search) | 搜索工程领域的实验与原型 |
 | 领域层 | [`quanttide-secret-lab`](domains/quanttide-secret-lab) | [`quanttide-secret`](../../domains/quanttide-secret) | 密码管理领域的实验与原型 |
 | 领域层 | [`quanttide-security-lab`](domains/quanttide-security-lab) | [`quanttide-security`](../../domains/quanttide-security) | 安全工程领域的实验与原型 |
 | 领域层 | [`quanttide-strategy-lab`](domains/quanttide-strategy-lab) | [`quanttide-strategy`](../../domains/quanttide-strategy) | 战略管理领域的实验与原型 |

@@ -85,6 +85,9 @@
 [submodule "domains/quanttide-project-lab"]
 	path = domains/quanttide-project-lab
 	url = https://github.com/quanttide/quanttide-project-lab.git
+[submodule "domains/quanttide-search-lab"]
+	path = domains/quanttide-search-lab
+	url = https://github.com/quanttide/quanttide-search-lab.git
 [submodule "domains/quanttide-secret-lab"]
 	path = domains/quanttide-secret-lab
 	url = https://github.com/quanttide/quanttide-secret-lab.git
