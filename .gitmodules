@@ -115,3 +115,6 @@
 [submodule "independent/quanttide-game-lab"]
 	path = independent/quanttide-game-lab
 	url = https://github.com/quanttide/quanttide-game-lab.git
+[submodule "domains/quanttide-algorithm-lab"]
+	path = domains/quanttide-algorithm-lab
+	url = https://github.com/quanttide/quanttide-algorithm-lab.git

@@ -21,6 +21,7 @@
 |:--|:--|:--|:--|
 | 主体层 | [`quanttide-tech-lab`](defaults/quanttide-tech-lab) | 量潮科技（`default/quanttide-tech`） | 公司级实验空间：正式流程之外先试一试 |
 | 领域层 | [`quanttide-agent-lab`](domains/quanttide-agent-lab) | [`quanttide-agent`](../../domains/quanttide-agent) | 智能体工程领域的实验与原型 |
+| 领域层 | [`quanttide-algorithm-lab`](domains/quanttide-algorithm-lab) | [`quanttide-algorithm`](../../domains/quanttide-algorithm) | 算法工程领域的实验与原型 |
 | 领域层 | [`quanttide-asset-lab`](domains/quanttide-asset-lab) | [`quanttide-asset`](../../domains/quanttide-asset) | 资产管理领域的实验与原型 |
 | 领域层 | [`quanttide-auth-lab`](domains/quanttide-auth-lab) | [`quanttide-auth`](../../domains/quanttide-auth) | 身份认证领域的实验与原型 |
 | 领域层 | [`quanttide-code-lab`](domains/quanttide-code-lab) | [`quanttide-code`](../../domains/quanttide-code) | 软件工程领域的实验与原型 |
