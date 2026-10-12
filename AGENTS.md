@@ -16,7 +16,8 @@
 2. 新增实验室：云端建仓 `quanttide-{域短名}-lab` → 本仓库 `git submodule add` 到对应分区 → 同步 README 清单表与 ROADMAP
 3. 实验室不留正本：实验有效后把方法与经验提取到对应领域档案、产品与流程
 4. 命名跟域短名走，不跟英文全称走（如 `quanttide-work-lab`，不是 `quanttide-knowledge-work-lab`）
-5. 提交即推送
+5. 许可证统一 Apache 2.0：新增实验室一律使用 Apache 2.0（与全体实验室及本元仓库一致）
+6. 提交即推送
 
 ## 评判指标
 
