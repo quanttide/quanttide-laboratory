@@ -112,12 +112,6 @@
 [submodule "domains/quanttide-write-lab"]
 	path = domains/quanttide-write-lab
 	url = https://github.com/quanttide/quanttide-write-lab.git
-[submodule "independent/quanttide-execution-lab"]
-	path = independent/quanttide-execution-lab
-	url = https://github.com/quanttide/quanttide-execution-lab.git
-[submodule "independent/quanttide-game-lab"]
-	path = independent/quanttide-game-lab
-	url = https://github.com/quanttide/quanttide-game-lab.git
 [submodule "adapters/quanttide-feishu-lab"]
 	path = adapters/quanttide-feishu-lab
 	url = https://github.com/quanttide/quanttide-feishu-lab.git
@@ -127,3 +121,9 @@
 [submodule "adapters/quanttide-hermes-lab"]
 	path = adapters/quanttide-hermes-lab
 	url = https://github.com/quanttide/quanttide-hermes-lab.git
+[submodule "domains/quanttide-execution-lab"]
+	path = domains/quanttide-execution-lab
+	url = https://github.com/quanttide/quanttide-execution-lab.git
+[submodule "domains/quanttide-game-lab"]
+	path = domains/quanttide-game-lab
+	url = https://github.com/quanttide/quanttide-game-lab.git

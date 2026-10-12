@@ -1,6 +1,6 @@
 # 量潮实验室（quanttide-laboratory）
 
-量潮实验体系的**元仓库**——聚合各领域的实验原型，分置于 `defaults/`、`domains/`、`adapters/` 与 `independent/` 四个目录。各实验室是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
+量潮实验体系的**元仓库**——聚合各领域的实验原型，分置于 `defaults/`、`domains/` 与 `adapters/` 三个目录。各实验室是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
 
 ## 架构思想
 
@@ -36,7 +36,9 @@
 | 领域层 | [`quanttide-econ-lab`](domains/quanttide-econ-lab) | [`quanttide-econ`](../../domains/quanttide-econ) | 经济建模领域的实验与原型 |
 | 领域层 | [`quanttide-entrep-lab`](domains/quanttide-entrep-lab) | [`quanttide-entrep`](../../domains/quanttide-entrep) | 创业管理领域的实验与原型 |
 | 领域层 | [`quanttide-execute-lab`](domains/quanttide-execute-lab) | [`quanttide-execute`](../../domains/quanttide-execute) | 执行管理领域的实验与原型 |
+| 领域层 | [`quanttide-execution-lab`](domains/quanttide-execution-lab) | [`quanttide-execute`](../../domains/quanttide-execute) | 执行领域的实验与原型 |
 | 领域层 | [`quanttide-finance-lab`](domains/quanttide-finance-lab) | [`quanttide-finance`](../../domains/quanttide-finance) | 财务管理领域的实验与原型 |
+| 领域层 | [`quanttide-game-lab`](domains/quanttide-game-lab) | —— | 游戏研发领域的实验与原型 |
 | 领域层 | [`quanttide-growth-lab`](domains/quanttide-growth-lab) | [`quanttide-growth`](../../domains/quanttide-growth) | 增长管理领域的实验与原型 |
 | 领域层 | [`quanttide-health-lab`](domains/quanttide-health-lab) | [`quanttide-health`](../../domains/quanttide-health) | 健康管理领域的实验与原型 |
 | 领域层 | [`quanttide-human-lab`](domains/quanttide-human-lab) | [`quanttide-human`](../../domains/quanttide-human) | 人力资源领域的实验与原型 |
@@ -60,8 +62,6 @@
 | 适配层 | [`quanttide-feishu-lab`](adapters/quanttide-feishu-lab) | [`quanttide-feishu`](../../adapters/quanttide-feishu) | 飞书适配的实验与原型 |
 | 适配层 | [`quanttide-github-lab`](adapters/quanttide-github-lab) | [`quanttide-github`](../../adapters/quanttide-github) | GitHub 适配的实验与原型 |
 | 适配层 | [`quanttide-hermes-lab`](adapters/quanttide-hermes-lab) | [`quanttide-hermes`](../../adapters/quanttide-hermes) | Hermes 智能体适配的实验与原型 |
-| 独立层 | [`quanttide-execution-lab`](independent/quanttide-execution-lab) | —— | 暂无对应领域仓，独立演进 |
-| 独立层 | [`quanttide-game-lab`](independent/quanttide-game-lab) | —— | 暂无对应领域仓，独立演进 |
 
 ## 目录结构
 
@@ -70,7 +70,6 @@ quanttide-laboratory/
 ├── adapters/       # 子模块：适配层实验室（飞书、GitHub、Hermes 等）
 ├── defaults/       # 子模块：主体实验室（公司层）
 ├── domains/        # 子模块：各领域实验室（见上表）
-├── independent/    # 子模块：暂无对应领域仓的实验室
 ├── AGENTS.md       # 智能体约定
 ├── LICENSE         # Apache 2.0 许可证
 ├── README.md       # 本文件

@@ -6,9 +6,10 @@
 |---|----|----|------|
 | 1 | 各领域实验室填充 | 领域层 | 43 个实验室已登记引用，多数仍是骨架，按需把实验放进去 |
 | 2 | 实验室产出回流 | —— | 实验有效后把方法与经验提取到对应领域档案、产品与流程，不在实验室留正本 |
-| 3 | 无领域实验室归位 | 独立层 | `quanttide-execution-lab`、`quanttide-game-lab` 暂无对应领域仓，待定归属或撤销 |
 
 ## 演进记录
+
+- 2026-10-12：归位实验室——`quanttide-execution-lab`、`quanttide-game-lab` 由 `independent/` 移入 `domains/` 分区，撤销 `independent/` 分区（分区归为 `defaults/`、`domains/`、`adapters/` 三层）。
 
 - 2026-10-12：适配层实验室 `quanttide-feishu-lab`、`quanttide-github-lab`、`quanttide-hermes-lab` 挂载到新增的 `adapters/` 分区，实验室总数 40 → 43；README、AGENTS 同步分区说明。
 

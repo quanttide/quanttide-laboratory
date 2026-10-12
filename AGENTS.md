@@ -9,7 +9,6 @@
 | `defaults/` | 主体实验室（公司层），如 `quanttide-tech-lab` |
 | `domains/` | 各领域实验室，命名 `quanttide-{域短名}-lab` |
 | `adapters/` | 适配层实验室，命名 `quanttide-{适配对象}-lab`，对应 `adapters/` 轴 |
-| `independent/` | 暂无对应领域仓的实验室 |
 
 ## 约定
 
