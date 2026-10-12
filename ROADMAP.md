@@ -10,6 +10,8 @@
 
 ## 演进记录
 
+- 2026-10-12：实验室许可证统一为 Apache 2.0——本仓内 22 个（5 个由 CC BY 4.0 切换：algorithm、auth、pay、project、work；17 个新增 LICENSE），另适配层 `quanttide-feishu-lab` 同步；元仓库自身 LICENSE 由 MIT 改为 Apache 2.0；`.gitmodules` 按字母序整理（algorithm 归位）；README 修正 support 描述。
+
 - 2026-10-11：新增领域实验室 `quanttide-algorithm-lab`（算法工程），README 清单与计数同步为 40。
 
 - 2026-10-10：新增领域实验室 `quanttide-search-lab`（搜索工程），README 清单与计数同步为 39。

@@ -53,7 +53,7 @@
 | 领域层 | [`quanttide-secret-lab`](domains/quanttide-secret-lab) | [`quanttide-secret`](../../domains/quanttide-secret) | 密码管理领域的实验与原型 |
 | 领域层 | [`quanttide-security-lab`](domains/quanttide-security-lab) | [`quanttide-security`](../../domains/quanttide-security) | 安全工程领域的实验与原型 |
 | 领域层 | [`quanttide-strategy-lab`](domains/quanttide-strategy-lab) | [`quanttide-strategy`](../../domains/quanttide-strategy) | 战略管理领域的实验与原型 |
-| 领域层 | [`quanttide-support-lab`](domains/quanttide-support-lab) | [`quanttide-support`](../../domains/quanttide-support) | quanttide-support领域的实验与原型 |
+| 领域层 | [`quanttide-support-lab`](domains/quanttide-support-lab) | [`quanttide-support`](../../domains/quanttide-support) | 客户支持领域的实验与原型 |
 | 领域层 | [`quanttide-think-lab`](domains/quanttide-think-lab) | [`quanttide-think`](../../domains/quanttide-think) | 认知工程领域的实验与原型 |
 | 领域层 | [`quanttide-work-lab`](domains/quanttide-work-lab) | [`quanttide-work`](../../domains/quanttide-work) | 知识工作领域的实验与原型 |
 | 领域层 | [`quanttide-write-lab`](domains/quanttide-write-lab) | [`quanttide-write`](../../domains/quanttide-write) | 写作管理领域的实验与原型 |
@@ -68,7 +68,7 @@ quanttide-laboratory/
 ├── domains/        # 子模块：各领域实验室（见上表）
 ├── independent/    # 子模块：暂无对应领域仓的实验室
 ├── AGENTS.md       # 智能体约定
-├── LICENSE         # MIT 许可证
+├── LICENSE         # Apache 2.0 许可证
 ├── README.md       # 本文件
 └── ROADMAP.md      # 路线图
 ```
@@ -87,4 +87,4 @@ git submodule update --init --recursive
 
 ## 许可证
 
-本项目采用 [MIT](LICENSE) 许可证。
+本项目采用 [Apache 2.0](LICENSE) 许可证，与各实验室仓库保持一致。

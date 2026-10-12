@@ -4,6 +4,9 @@
 [submodule "domains/quanttide-agent-lab"]
 	path = domains/quanttide-agent-lab
 	url = https://github.com/quanttide/quanttide-agent-lab.git
+[submodule "domains/quanttide-algorithm-lab"]
+	path = domains/quanttide-algorithm-lab
+	url = https://github.com/quanttide/quanttide-algorithm-lab.git
 [submodule "domains/quanttide-asset-lab"]
 	path = domains/quanttide-asset-lab
 	url = https://github.com/quanttide/quanttide-asset-lab.git
@@ -115,6 +118,3 @@
 [submodule "independent/quanttide-game-lab"]
 	path = independent/quanttide-game-lab
 	url = https://github.com/quanttide/quanttide-game-lab.git
-[submodule "domains/quanttide-algorithm-lab"]
-	path = domains/quanttide-algorithm-lab
-	url = https://github.com/quanttide/quanttide-algorithm-lab.git
