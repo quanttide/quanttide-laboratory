@@ -4,11 +4,13 @@
 
 | # | 项 | 层 | 说明 |
 |---|----|----|------|
-| 1 | 各领域实验室填充 | 领域层 | 40 个实验室已登记引用，多数仍是骨架，按需把实验放进去 |
+| 1 | 各领域实验室填充 | 领域层 | 43 个实验室已登记引用，多数仍是骨架，按需把实验放进去 |
 | 2 | 实验室产出回流 | —— | 实验有效后把方法与经验提取到对应领域档案、产品与流程，不在实验室留正本 |
 | 3 | 无领域实验室归位 | 独立层 | `quanttide-execution-lab`、`quanttide-game-lab` 暂无对应领域仓，待定归属或撤销 |
 
 ## 演进记录
+
+- 2026-10-12：适配层实验室 `quanttide-feishu-lab`、`quanttide-github-lab`、`quanttide-hermes-lab` 挂载到新增的 `adapters/` 分区，实验室总数 40 → 43；README、AGENTS 同步分区说明。
 
 - 2026-10-12：实验室许可证统一为 Apache 2.0——本仓内 22 个（5 个由 CC BY 4.0 切换：algorithm、auth、pay、project、work；17 个新增 LICENSE），另适配层 `quanttide-feishu-lab` 同步；元仓库自身 LICENSE 由 MIT 改为 Apache 2.0；`.gitmodules` 按字母序整理（algorithm 归位）；README 修正 support 描述。
 

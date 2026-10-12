@@ -1,6 +1,6 @@
 # 量潮实验室（quanttide-laboratory）
 
-量潮实验体系的**元仓库**——聚合各领域的实验原型，分置于 `domains/`、`defaults/` 与 `independent/` 三个目录。各实验室是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
+量潮实验体系的**元仓库**——聚合各领域的实验原型，分置于 `defaults/`、`domains/`、`adapters/` 与 `independent/` 四个目录。各实验室是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
 
 ## 架构思想
 
@@ -13,7 +13,7 @@
 | `quanttide-toolkit` | 语言无关的 toolkit 包 | 被端侧依赖 |
 | **`quanttide-laboratory`（本仓库）** | 各领域的实验原型 | 验证有效后提取为方法、产品与流程 |
 
-各领域仓的 `examples/{域短名}-lab` 是入口指针，本仓库是这些实验室的聚合视图——便于横向比对、复用与统一索引。
+各领域仓、适配仓的 `examples/quanttide-{名称}-lab` 是入口指针，本仓库是这些实验室的聚合视图——便于横向比对、复用与统一索引。
 
 ## 实验室清单
 
@@ -57,6 +57,9 @@
 | 领域层 | [`quanttide-think-lab`](domains/quanttide-think-lab) | [`quanttide-think`](../../domains/quanttide-think) | 认知工程领域的实验与原型 |
 | 领域层 | [`quanttide-work-lab`](domains/quanttide-work-lab) | [`quanttide-work`](../../domains/quanttide-work) | 知识工作领域的实验与原型 |
 | 领域层 | [`quanttide-write-lab`](domains/quanttide-write-lab) | [`quanttide-write`](../../domains/quanttide-write) | 写作管理领域的实验与原型 |
+| 适配层 | [`quanttide-feishu-lab`](adapters/quanttide-feishu-lab) | [`quanttide-feishu`](../../adapters/quanttide-feishu) | 飞书适配的实验与原型 |
+| 适配层 | [`quanttide-github-lab`](adapters/quanttide-github-lab) | [`quanttide-github`](../../adapters/quanttide-github) | GitHub 适配的实验与原型 |
+| 适配层 | [`quanttide-hermes-lab`](adapters/quanttide-hermes-lab) | [`quanttide-hermes`](../../adapters/quanttide-hermes) | Hermes 智能体适配的实验与原型 |
 | 独立层 | [`quanttide-execution-lab`](independent/quanttide-execution-lab) | —— | 暂无对应领域仓，独立演进 |
 | 独立层 | [`quanttide-game-lab`](independent/quanttide-game-lab) | —— | 暂无对应领域仓，独立演进 |
 
@@ -64,6 +67,7 @@
 
 ```text
 quanttide-laboratory/
+├── adapters/       # 子模块：适配层实验室（飞书、GitHub、Hermes 等）
 ├── defaults/       # 子模块：主体实验室（公司层）
 ├── domains/        # 子模块：各领域实验室（见上表）
 ├── independent/    # 子模块：暂无对应领域仓的实验室
