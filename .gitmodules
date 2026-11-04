@@ -127,3 +127,6 @@
 [submodule "domains/quanttide-game-lab"]
 	path = domains/quanttide-game-lab
 	url = https://github.com/quanttide/quanttide-game-lab.git
+[submodule "domains/quanttide-market-lab"]
+	path = domains/quanttide-market-lab
+	url = https://github.com/quanttide/quanttide-market-lab.git

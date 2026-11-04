@@ -46,6 +46,7 @@
 | 领域层 | [`quanttide-knowl-lab`](domains/quanttide-knowl-lab) | [`quanttide-knowl`](../../domains/quanttide-knowl) | 知识工程领域的实验与原型 |
 | 领域层 | [`quanttide-learn-lab`](domains/quanttide-learn-lab) | [`quanttide-learn`](../../domains/quanttide-learn) | 学习管理领域的实验与原型 |
 | 领域层 | [`quanttide-media-lab`](domains/quanttide-media-lab) | [`quanttide-media`](../../domains/quanttide-media) | 新媒体运营领域的实验与原型 |
+| 领域层 | [`quanttide-market-lab`](domains/quanttide-market-lab) | [`quanttide-market`](../../domains/quanttide-market) | 营销管理领域的实验与原型 |
 | 领域层 | [`quanttide-meta-lab`](domains/quanttide-meta-lab) | [`quanttide-meta`](../../domains/quanttide-meta) | 元工程领域的实验与原型 |
 | 领域层 | [`quanttide-org-lab`](domains/quanttide-org-lab) | [`quanttide-org`](../../domains/quanttide-org) | 组织管理领域的实验与原型 |
 | 领域层 | [`quanttide-pay-lab`](domains/quanttide-pay-lab) | [`quanttide-pay`](../../domains/quanttide-pay) | 支付工程领域的实验与原型 |
