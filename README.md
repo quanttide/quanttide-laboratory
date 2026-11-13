@@ -24,6 +24,7 @@
 | 领域层 | [`quanttide-algorithm-lab`](domains/quanttide-algorithm-lab) | [`quanttide-algorithm`](../../domains/quanttide-algorithm) | 算法工程领域的实验与原型 |
 | 领域层 | [`quanttide-asset-lab`](domains/quanttide-asset-lab) | [`quanttide-asset`](../../domains/quanttide-asset) | 资产管理领域的实验与原型 |
 | 领域层 | [`quanttide-auth-lab`](domains/quanttide-auth-lab) | [`quanttide-auth`](../../domains/quanttide-auth) | 身份认证领域的实验与原型 |
+| 领域层 | [`quanttide-business-lab`](domains/quanttide-business-lab) | [`quanttide-business`](../../domains/quanttide-business) | 商务拓展领域的实验与原型 |
 | 领域层 | [`quanttide-code-lab`](domains/quanttide-code-lab) | [`quanttide-code`](../../domains/quanttide-code) | 软件工程领域的实验与原型 |
 | 领域层 | [`quanttide-connect-lab`](domains/quanttide-connect-lab) | [`quanttide-connect`](../../domains/quanttide-connect) | 沟通管理领域的实验与原型 |
 | 领域层 | [`quanttide-course-lab`](domains/quanttide-course-lab) | [`quanttide-course`](../../domains/quanttide-course) | 课程研发领域的实验与原型 |
