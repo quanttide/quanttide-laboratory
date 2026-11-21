@@ -28,6 +28,7 @@
 | 领域层 | [`quanttide-code-lab`](domains/quanttide-code-lab) | [`quanttide-code`](../../domains/quanttide-code) | 软件工程领域的实验与原型 |
 | 领域层 | [`quanttide-connect-lab`](domains/quanttide-connect-lab) | [`quanttide-connect`](../../domains/quanttide-connect) | 沟通管理领域的实验与原型 |
 | 领域层 | [`quanttide-course-lab`](domains/quanttide-course-lab) | [`quanttide-course`](../../domains/quanttide-course) | 课程研发领域的实验与原型 |
+| 领域层 | [`quanttide-create-lab`](domains/quanttide-create-lab) | [`quanttide-create`](../../domains/quanttide-create) | 创意工作领域的实验与原型 |
 | 领域层 | [`quanttide-crowd-lab`](domains/quanttide-crowd-lab) | [`quanttide-crowd`](../../domains/quanttide-crowd) | 众包管理领域的实验与原型 |
 | 领域层 | [`quanttide-customer-lab`](domains/quanttide-customer-lab) | [`quanttide-customer`](../../domains/quanttide-customer) | 客户关系领域的实验与原型 |
 | 领域层 | [`quanttide-data-lab`](domains/quanttide-data-lab) | [`quanttide-data`](../../domains/quanttide-data) | 数据工程领域的实验与原型 |
