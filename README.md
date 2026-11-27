@@ -44,6 +44,7 @@
 | 领域层 | [`quanttide-growth-lab`](domains/quanttide-growth-lab) | [`quanttide-growth`](../../domains/quanttide-growth) | 增长管理领域的实验与原型 |
 | 领域层 | [`quanttide-health-lab`](domains/quanttide-health-lab) | [`quanttide-health`](../../domains/quanttide-health) | 健康管理领域的实验与原型 |
 | 领域层 | [`quanttide-human-lab`](domains/quanttide-human-lab) | [`quanttide-human`](../../domains/quanttide-human) | 人力资源领域的实验与原型 |
+| 领域层 | [`quanttide-infra-lab`](domains/quanttide-infra-lab) | [`quanttide-infra`](../../domains/quanttide-infra) | 基础设施领域的实验与原型 |
 | 领域层 | [`quanttide-innov-lab`](domains/quanttide-innov-lab) | [`quanttide-innov`](../../domains/quanttide-innov) | 创新管理领域的实验与原型 |
 | 领域层 | [`quanttide-knowl-lab`](domains/quanttide-knowl-lab) | [`quanttide-knowl`](../../domains/quanttide-knowl) | 知识工程领域的实验与原型 |
 | 领域层 | [`quanttide-learn-lab`](domains/quanttide-learn-lab) | [`quanttide-learn`](../../domains/quanttide-learn) | 学习管理领域的实验与原型 |

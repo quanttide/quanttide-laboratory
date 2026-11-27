@@ -136,3 +136,6 @@
 [submodule "domains/quanttide-create-lab"]
 	path = domains/quanttide-create-lab
 	url = https://github.com/quanttide/quanttide-create-lab.git
+[submodule "domains/quanttide-infra-lab"]
+	path = domains/quanttide-infra-lab
+	url = https://github.com/quanttide/quanttide-infra-lab.git
